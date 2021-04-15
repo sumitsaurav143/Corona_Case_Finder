@@ -6,21 +6,21 @@ a) Total Confirmed Cases
 b) Total Active Cases
 c) Total Recoveries
 d) Total Deaths
+e) Total Cases of districts of selected state.
 
 #Platfrom:
 Python 3.8.2
 
 #Modules:
 1.Tkinter
-2.bs4
-3.requests
+2.requests
 
 #Requirment:
 a) Internet Connection
 b) Window PC
 
 #Data Site:
-https://covidindia.org/
+https://api.covid19india.org/
 
 #Date Created:
 22th August,2020
